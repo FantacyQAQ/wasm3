@@ -1,0 +1,20 @@
+.{
+    .name = .wasm3,
+    .version = "0.9.0",
+    .fingerprint = 0x377ef9513994b28f,
+    .minimum_zig_version = "0.16.0",
+    .dependencies = .{
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "source",
+        "docs",
+        "extra",
+        "platforms",
+        "test",
+        "AGENTS.md",
+        "LICENSE",
+        "README.md",
+    },
+}
