@@ -1,6 +1,6 @@
 .{
     .name = .wasm3,
-    .version = "0.9.0",
+    .version = "0.9.1",
     .fingerprint = 0x377ef9513994b28f,
     .minimum_zig_version = "0.16.0",
     .dependencies = .{
